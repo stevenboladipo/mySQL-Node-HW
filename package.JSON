@@ -1,0 +1,19 @@
+{
+  "name": "mySQL-Node-HW",
+  "version": "1.0.0",
+  "main": "BamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "open": "0.0.5",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rbla3066/mySQL-Node-HW"
+
